@@ -1,0 +1,34 @@
+{
+  "name": "ngxs-loading-plugin",
+  "version": "0.0.1",
+  "description": "A Simple Loading Plugin for NGXS",
+  "main": "index.js",
+  "sideEffects": true,
+  "peerDependencies": {
+    "@ngxs/store": "^0.0.0",
+    "@angular/core": ">=6.1.0 <12.0.0",
+    "rxjs": ">=6.5.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PetGuru/ngxs-loading-plugin.git"
+  },
+  "keywords": [
+    "NGXS",
+    "Angular",
+    "TypeScript",
+    "Loading",
+    "Plugin"
+  ],
+  "author": "Timothy Peacock",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PetGuru/ngxs-loading-plugin/issues"
+  },
+  "homepage": "https://github.com/PetGuru/ngxs-loading-plugin#readme",
+  "dependencies": {
+    "@angular/core": "^11.0.5",
+    "@ngxs/store": "^3.7.1",
+    "rxjs": "^6.6.3"
+  }
+}

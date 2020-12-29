@@ -1,2 +1,7 @@
 # ngxs-loading-plugin
-NGXS Loading Plugin
+
+## Installation
+```npm i --save @petguru/ngrx-loading-plugin```
+
+## Usage
+TODO: Write this
